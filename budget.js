@@ -18,7 +18,7 @@ clearAllBtn.addEventListener('click', clearAllTransactions);
 // Functions
 // Function to add transaction
 function addTransaction(){
-    const description = descriptionInput.value;
+    const description = descriptionInput.value; 
     const amount = parseFloat(amountInput.value);
     
     //vallidate input
