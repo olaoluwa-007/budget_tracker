@@ -1,6 +1,6 @@
 // DOM elements
 const descriptionInput = document.getElementById('descriptionInput');
-const amountInput = document.getElementById('amountInput');
+const amountInput = document.getElementById ('amountInput');
 const addTransactionBtn = document.getElementById('addTransactionBtn');
 const transactionList = document.getElementById('transactionList');
 const totalIncome = document.getElementById('totalIncome');
